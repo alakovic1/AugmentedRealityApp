@@ -1,0 +1,340 @@
+fileFormatVersion: 2
+guid: 8bdd6cd7012ba324c86b64d368988914
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2100000: kobIJELA
+    2100002: cigle
+    2100004: prozor
+    2100006: vrata
+    2100008: Material.001
+    2100010: isus
+    2100012: Material
+    2100014: Material.002
+    2100016: toranj2
+    2100018: prozor2
+    2100020: kockaPorozor
+    2100022: bijeleCigle
+    2100024: krov2
+    2100026: krov
+    2100028: tornjevi
+    2100030: donjeCigle
+    2100032: skrozNazad
+    2100034: lijevo3
+    2100036: cigle2
+    2100038: oker
+    2100040: zlato
+    2100042: siva
+    2100044: prednjiVelikiProzor
+    2100046: prednjaVrataZid
+    2100048: toranj3
+    2100050: prednjiKrov
+    2100052: bijelizid
+    2100054: teksturaNazad5
+    2100056: lijevo2
+    2100058: balkonOgrafa
+    2100060: 4rupetekstura
+    2100062: Material.004
+    2100064: lijeviZidNazad
+    2100066: prednjiVelikiProzorGornji
+    2100068: prozorResetke
+    2100070: prednjaVrata
+    2100072: teksturaNazad
+    2100074: prednjaVrataIznad
+    2100076: kipNaprijed
+    2100078: kipDesno
+    2100080: Material.003
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Cube.003
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 4rupetekstura
+    second: {fileID: 2100000, guid: efae8e760035dc7459fbb1aad2ee6448, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: aa9dbb110ff4914418285797cffafee3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 5743ba9573eabe24da839c86652a055c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 47a3cc502048c514a8d102e06467c9af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: 32596d380c479a94fbc9335363fd270f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: a63556c914b5b8348b3d5f7af0a9eafe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: balkonOgrafa
+    second: {fileID: 2100000, guid: 9c59176bfbe2f294c9d4c0497467a265, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bijeleCigle
+    second: {fileID: 2100000, guid: 123f7ec9891c2b948980d46948b8f6c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bijelizid
+    second: {fileID: 2100000, guid: 6be72e657bf83a04a897d70e7f3d9361, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cigle
+    second: {fileID: 2100000, guid: a8b1da1798e7da74796daba963405a17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cigle2
+    second: {fileID: 2100000, guid: 18dae8beb0dc24b46b2a192220fdebc6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: donjeCigle
+    second: {fileID: 2100000, guid: 1d8729e8250204e4a81f9fe2e16c2c6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: isus
+    second: {fileID: 2100000, guid: 9ecb7690cdfd58c438e93886d2bcd0ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kipDesno
+    second: {fileID: 2100000, guid: f7c97c3e681da0840ab50d0dd581e6c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kipNaprijed
+    second: {fileID: 2100000, guid: 82c37d9708b764842becfde8a07b06e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kobIJELA
+    second: {fileID: 2100000, guid: 454e8e56d4f9eef48b3ce039b95a44fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kockaPorozor
+    second: {fileID: 2100000, guid: 4ac7fc3e787bd5e41b40bc1465ffff8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: krov
+    second: {fileID: 2100000, guid: c3eedd5fe830ade45883142bf71b4a43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: krov2
+    second: {fileID: 2100000, guid: 6e18c620d9b4dd246bb0c8e9b039eca8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lijeviZidNazad
+    second: {fileID: 2100000, guid: 028e3d3828964454d8f92803b9d2d6c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lijevo2
+    second: {fileID: 2100000, guid: 8d9c4c284673a464f80129afed728112, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lijevo3
+    second: {fileID: 2100000, guid: 6863851bc3b0e23418420f6a34e763e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oker
+    second: {fileID: 2100000, guid: bbb0c68b116a07b4ca07dad7d67c5c1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: prednjaVrata
+    second: {fileID: 2100000, guid: c5fd8e86420f68a479d1f6631af78dd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: prednjaVrataIznad
+    second: {fileID: 2100000, guid: 703a04e7e596f9d48a7cd73af0c7ceac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: prednjaVrataZid
+    second: {fileID: 2100000, guid: fcfabfd5440110646843f54c9bd909ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: prednjiKrov
+    second: {fileID: 2100000, guid: a9ee607ff04b9c241a8f484e091b1592, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: prednjiVelikiProzor
+    second: {fileID: 2100000, guid: ab924a238dcbd4440907be82259b8c30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: prednjiVelikiProzorGornji
+    second: {fileID: 2100000, guid: 19b00110bb203d240a2acfd1908f734d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: prozor
+    second: {fileID: 2100000, guid: 7695b21e786ca554da8693592f9e7533, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: prozor2
+    second: {fileID: 2100000, guid: 2b27d076ced1f894eb98d11d3245deb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: prozorResetke
+    second: {fileID: 2100000, guid: 26fd6ef57cedd694bb403b3138256e4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: siva
+    second: {fileID: 2100000, guid: 852ee73c14bf24b4f86cae2b6731976d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skrozNazad
+    second: {fileID: 2100000, guid: 745977a0d16b31549ac508fbbe470a9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: teksturaNazad
+    second: {fileID: 2100000, guid: e9a6ebea82d8cb04195909150e8f06ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: teksturaNazad5
+    second: {fileID: 2100000, guid: 28046d832e9309e4ebd7b39d05362517, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: toranj2
+    second: {fileID: 2100000, guid: 46d4351ac1c6a4342810d9ea4ee58724, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: toranj3
+    second: {fileID: 2100000, guid: 59ff0e33f0b734244815be463134fa5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tornjevi
+    second: {fileID: 2100000, guid: aad616fb741da714da49244a0614b464, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vrata
+    second: {fileID: 2100000, guid: 2b6626806dd78ce4890b484b033a99ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zlato
+    second: {fileID: 2100000, guid: f331519a8b60acc4483eda6520dcf73f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
