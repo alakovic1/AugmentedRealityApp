@@ -4,7 +4,7 @@
 
 > This project is presenting Saint Mary’s Basilica in Krakow, Poland.
 
-Also, the project includes 3 points of interests that were added with Unity. 
+Also, the project includes 3 points of interests that were added with Unity.
 
 1. A lamp that starts a video about the Basilica
 2. A cross that shows the information about tickets for visiting the Basilica
